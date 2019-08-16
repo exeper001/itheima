@@ -6,4 +6,5 @@ public class User {
     private String time;
 
     private String sex;
+    private String test1;
 }
