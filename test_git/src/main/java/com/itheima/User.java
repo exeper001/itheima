@@ -7,4 +7,5 @@ public class User {
 
     private String sex;
     private String test1;
+    private String test3;
 }
